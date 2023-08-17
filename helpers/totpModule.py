@@ -1,6 +1,6 @@
 import time, pyotp
 
-totp_key = "H3K2ZSZQT3W3BZBF7SZVSYS7Y6PMXYQX"
+totp_key = "otp_key"
 
 
 def fetchTotp():
